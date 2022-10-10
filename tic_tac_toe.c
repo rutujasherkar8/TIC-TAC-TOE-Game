@@ -1,5 +1,6 @@
 
-//TIC TAC TOE Game using C Languaage.....
+//TIC TAC TOE Game using C Languaage...
+//Developer Name:-Rutuja Dnyaneshwar Sherakar
 //Date:-11, September 2022
 
 
